@@ -15,4 +15,4 @@ Performing a risk assessment by evaluating vulnerabilities that commonly threate
 
  <h4>
 Risk register: </h4>
-<img src="https://imgur.com/JajlCka.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/FTjCyaC.png" height="65%" width="70%" alt="Security Audit"/>
